@@ -1,2 +1,2 @@
 <?php
-$dbname = "mvc";
+define("DB_NAME", 'burgers');
